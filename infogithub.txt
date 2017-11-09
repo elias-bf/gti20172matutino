@@ -1,0 +1,8 @@
+No github crie uma conta
+Valide a conta no seu e-mail
+
+Logar no github
+criar uma repositório
+compartilhar seu repositório com os colegas do grupo
+
+Clonar seu repositório local
