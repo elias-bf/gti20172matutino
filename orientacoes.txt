@@ -1,0 +1,34 @@
+Instalação do git no linux ubuntu
+	sudo apt-get install git-core openssl
+
+Criar uma pasta (diretorio) para colocar o seu projeto
+	mkdir nomepasta
+
+Entrei na pasta
+	cd nomepasta
+
+Inicializei um repositorio do git (work directory)
+	git init
+
+Crie os arquivos do seu projeto
+
+Visualize a situação dos arquivos do seu projeto
+	git status
+
+Adicione os arquivos para monitoramento do git
+	git add nomeArquivos
+
+Configurar os seus dados pessoais
+	git config user.name "Seu nome"
+	git config user.email "Seu e-mail"
+
+Mostrar o historico de mudanças no projeto (log)
+	git log
+	git log nomeDoArquivo
+	git log -p nomeDoArquivo
+
+Outro comando para ver o historico
+	git whatchanged 
+	git whatchanged nomeDoArquivo
+
+
