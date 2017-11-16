@@ -8,5 +8,5 @@ Profissão: Professor
 
 Nome: Victor
 Cidade: Goiania
-Local de trabalho: Nenhum
+Local de trabalho: Faculdade Senac Goias
 Ocupacao: Estudante
