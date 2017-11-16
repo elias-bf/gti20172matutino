@@ -1,0 +1,3 @@
+nome:Bruno alves
+cidade:Goiania
+profissao:Balconista
