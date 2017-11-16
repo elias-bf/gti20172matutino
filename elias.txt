@@ -4,3 +4,9 @@ Nome: Elias
 Cidade: Goiânia
 Local de trabalho: Faculdade Senac Goias
 Profissão: Professor
+
+
+Nome: Victor
+Cidade: Goiania
+Local de trabalho: Nenhum
+Ocupacao: Estudante
