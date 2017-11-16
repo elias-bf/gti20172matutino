@@ -1,4 +1,13 @@
+Uma mensagem qualquer
 Computadores não resolvem problemas, executam soluções.
 
 Nome: Elias
 Cidade: Goiânia
+Local de trabalho: Faculdade Senac Goias
+Profissão: Professor
+
+
+Nome: Victor
+Cidade: Goiania
+Local de trabalho: Vendedor de Livros no Senac
+Ocupacao: Estudante
