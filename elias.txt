@@ -9,5 +9,5 @@ Profissão: Professor
 
 Nome: Victor
 Cidade: Goiania
-Local de trabalho: Nenhum
+Local de trabalho: Vendedor de Livros 
 Ocupacao: Estudante
