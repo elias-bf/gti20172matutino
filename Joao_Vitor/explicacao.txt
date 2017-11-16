@@ -1,0 +1,5 @@
+git ls-files: 
+	Listar arquivos dentro do diretporio.
+
+git status:
+	Exibir a condição em que os arquivos estão no diretório.

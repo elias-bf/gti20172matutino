@@ -1,0 +1,4 @@
+Comando git ls-files: Mostra informações sobre arquivos no indice e na arvore de trabalho
+
+
+Comando git status: Ferramenta utilizada para determinar em quais estados os arquivos estão
