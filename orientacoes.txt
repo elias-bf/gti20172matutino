@@ -31,4 +31,5 @@ Outro comando para ver o historico
 	git whatchanged 
 	git whatchanged nomeDoArquivo
 
-
+Cria uma copia do repositorio remoto na sua maquina local
+	git clone https://github.com/usuario/repositorio

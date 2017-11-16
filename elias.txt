@@ -2,3 +2,5 @@ Computadores não resolvem problemas, executam soluções.
 
 Nome: Elias
 Cidade: Goiânia
+Local de trabalho: Faculdade Senac Goias
+Profissão: Professor
