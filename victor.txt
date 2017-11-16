@@ -1,1 +1,3 @@
-Arroz doce é bom, Goiânia
+Aprendendo controle de versionamento do Git.
+Novembro 17, 2017.
+Goiania.
