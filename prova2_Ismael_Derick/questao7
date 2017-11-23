@@ -1,0 +1,19 @@
+Requisito funcional 1:
+
+"Deseja-se saber: título, autores, preço de venda,tipo de acabamento e editora." 
+
+Requisito funcional 2: 
+
+De uma editora deseja-se saber: nome e telefone.
+
+Requisito funcional 3: 
+
+Para cada livro  incorporado ao pedido, deve-se informar a quantidade desejada e se o livro deverá ser embrulhado para presente
+
+Requisito funcional 4:
+
+caso o cliente ainda não esteja cadastrado, ele deverá se cadastrar na finalização do pedido.
+
+Requisito funcional 5:
+
+Pedidos em elaboração que não forem finalizados até 10 dias após o seu início são excluidos do sistema
