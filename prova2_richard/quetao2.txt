@@ -1,4 +1,0 @@
-Análise é onde os desenvolvedores fazem um estudo detalhado dos dados levantados.
-Assim é necessário definir o que o sistema deve fazer, antes de definir como o sistema irá fazer.
-Validação: tem por objetivo, assegurar que o sistema de software está atendendo às reais necessidades do cliente;
-Verificação: verifica se os modelos construídos na análise estão em conformidade com os requisitos do cliente.
