@@ -1,0 +1,3 @@
+Teste é dedicado a estabelecer a existencia de defeitos no software
+
+Debbugging é o processo de localização e correção dos defeitos
