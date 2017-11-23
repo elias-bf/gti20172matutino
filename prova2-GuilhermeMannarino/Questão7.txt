@@ -1,0 +1,10 @@
+1 -  Os clientes compram livros diretamente no site.
+
+2 - Livraria virtual vende livros de diversas editoras. 
+
+3 -  Funcionarios da livraria despacham pedidos para os clientes. 
+
+4 -  Clientes podem navegar no site da livraria, sem serem ainda identificados.
+
+5 - Quando autorizado pelo sistema de operadoras de cartão. 
+

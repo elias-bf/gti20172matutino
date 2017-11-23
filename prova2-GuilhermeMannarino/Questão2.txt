@@ -1,0 +1,14 @@
+Análise : Também chamada de especificação de requisitos, é onde os desenvolvedores fazem um estudo detalhado dos dados levantados na atividade anterior. De onde são construídos modelos a fim de representar o sistema de software a ser desenvolvido.
+
+Projeto : Nesta fase é que deve ser considerado, como o sistema funcionará internamente, para que os requisitos do cliente possam ser atendidos. 
+Alguns aspectos devem ser considerados nessa fase de projeto do sistema, como: arquitetura do sistema, linguagem de programação utilizada, Sistema Gerenciador de Banco de Dados (SGBD) utilizado, padrão de interface gráfica, entre outros.
+No projeto é gerada uma descrição computacional, mencionando o que o software deve fazer, e deve ser coerente com a descrição realizada na fase de análise de requisitos.
+
+Implementação : Nessa etapa, o sistema é codificado a partir da descrição computacional da fase de projeto em uma outra linguagem, onde se torna possível a compilação e geração do código-executável para o desenvolvimento software.
+
+Teste : Diversas atividades de testes são executadas a fim de se validar o produto de software, testando cada funcionalidade de cada módulo, buscando, levando em consideração a especificação feita na fase de projeto. 
+Onde o principal resultado é o relatório de testes, que contém as informações relevantes sobre erros encontrados no sistema, e seu comportamento em vários aspectos. 
+Ao final dessa atividade, os diversos módulos do sistema são integrados, resultando no produto de software.
+
+Implantação : Por fim a implantação compreende a instalação do software no ambiente do usuário. O que inclui os manuais do sistema, importação dos dados para o novo sistema e treinamento dos usuários para o uso correto e adequado do sistema. 
+Em alguns casos quando da existência de um software anterior, também é realizada a migração de dados anteriores desse software.
