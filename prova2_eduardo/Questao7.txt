@@ -1,0 +1,5 @@
+Requisitos Funcionais 
+1-Uma livraria virtual vende os livros de diversas editoras .
+2. Os clientes compram livros diretamente no site .
+3- Registra-se a data de inicio do periodo
+4- Quando o cliente decide finalizar a compra , ele deve identificar-se

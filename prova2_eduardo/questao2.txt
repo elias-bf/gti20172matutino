@@ -1,0 +1,5 @@
+Analise - Analisar , estudar o problema .
+Projeto - Propor uma solução para aquele problema
+Implementação-Codificação , a parte de codigos do programa .
+Teste-validação , ver se aquele software esta executando corretamente.
+Implantação-Colocar o software em produção . 
