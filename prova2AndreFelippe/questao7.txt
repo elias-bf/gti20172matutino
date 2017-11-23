@@ -1,0 +1,19 @@
+Requisito Funcional 1 
+	
+	- "De um livro, deseja-se saber: título, autores, preço de venda, tipo de acabamento e (brochura, encadernado ou especial) e editora."
+
+Requisito Funcional 2
+	
+	- "De uma editora deseja-se saber: nome e telefone."
+
+Requisito Funcional 3
+
+	- "Para cada livro incorporado ao pedido, deve-se informar a quantidade desejada e se o livro deverá ser embrulhado para presente."
+
+Requisto Funcional 4
+	
+	- "Quando o primeiro livro é incorporado ao pedido, registra-se a data de início do pedido."
+
+Requisito Funcional 5
+
+	- "Quando o cliente finaliza a compra, ele deve identificar-se. Caso o cliente ainda não esteja cadastrado, ele deverá se cadastrar na finalização do pedido." 
