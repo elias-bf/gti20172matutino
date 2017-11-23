@@ -1,0 +1,11 @@
+resposta 
+
+1º requisito- De um livro, deseja-se saber: titulo, autores, preço de venda, tipo de acabamento(brochura, encadernado ou especial) e editora
+
+2º requisito- Cliente podem navegar no site da livraria, sem serem ainda identificados, especificando os item de seus pedidos.Quando um pedido é despachad, deve registrar a data de envio do pedido para o cliente.  
+ 
+3º requisito- De editora deseja-se saber: nome e telefone
+
+4º requisito- Quando o primeiro livro é incorporado ao pedido, resgistra-se data de inicio dp periodo.
+
+5º requisito- Contudo, o cliente pode ter esteja cadastrado previamente.De um cliente deseja-se saber saber:nome, endereço, e-mail, e senha.

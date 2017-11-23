@@ -1,0 +1,9 @@
+Análise:criar um metodo de solução  , sem se procupar em como essa estrategia sera utilizada ou seja sem utlizar as necessidades do cliente
+
+Projeto:deve ser visado como o sistema funcionará internamento , para que os erquisitos do cliente possam ser atendidos 
+
+Implementação:nessa etapa o sistema é codificado a partir da descição computacional da fase de projeto em uma outra linguagem , onde se e possivél a compilação e geração do codigo.
+
+Teste:são executadas diversas atividades de teste a fim de validar o produto de software.
+
+Implantação: compreende a instalação do software no ambiente do usuário

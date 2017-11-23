@@ -1,0 +1,6 @@
+Resposta: 
+Deseja saber o nome do autor, livro, e preço de venda
+Deseja saber se quer embrulhar para presente
+Deseja saber a quantidade de livros
+Pedir para o usuário fazer o cadastro
+Especificar como fazer o cadastro

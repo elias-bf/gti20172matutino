@@ -1,0 +1,9 @@
+
+Analise: Visa o que o projeto deverá fazer
+Projeto: "Analisa" o projeto e a arquitetura do software do projeto mais detalhado
+Implementação: o projeto é traduzido para a execução da máquina
+Teste: testes de unidade e de documentação do software, procurando erros, bugs
+etc...
+Implantação: Quando o software é instalado no ambiente de produção, nisso
+ocorre treinamento, configuração etc..
+

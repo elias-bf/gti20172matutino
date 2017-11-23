@@ -1,0 +1,10 @@
+O usuário entre com os seguintes valores
+	
+	Valor1 = 10; Valor2 = 2 - O programa deverá apresentar o valor 5 como resultado
+	
+	Valor1 = 20; Valor2 = A - O programa deverá exibir uma menssagem de inviabilidade do 		cálculo
+
+	Valor1 = B ; Valor2 = 9 - O programa deverá exibir uma menssagem de inviabilidade do 		cálculo
+	
+	Valor1 = A; Valor2 = B -  O programa deverá exibir uma menssagem de inviabilidade do 		cálculo
+	

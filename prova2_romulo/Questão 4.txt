@@ -1,0 +1,8 @@
+Resposta: 
+
+A Diferença entre Teste e Debugging e que Teste de software:
+
+ Técnica dinâmica e principal, executar a implementação e analisar resultados. Podem revelar pre-sença de erros, não a sua ausência.
+debugging são processos feitos de forma intercalada, ao encontrar um erro ele é prontamente corri-gido.
+Debugging: localiza e corrige os defeitos.
+ Resumindo, Teste é você fazer o teste para ver se o seu projeto ou programa possui algum defeito, é identificar algo de errado, Já o debugging (depuração) é pegar algo que está quebrado e conserta-lo

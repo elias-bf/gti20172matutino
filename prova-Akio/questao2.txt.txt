@@ -1,0 +1,11 @@
+Resposta
+
+Analise-analisar o processo de desenvolvimento do programa antes de começar a fazer
+
+Projeto- apos o analise executa o projeto do programa
+
+Implementação- exutando o projeto na maquina
+
+Teste- e para verificar se o programa esta funcionando corretamente
+
+implantação- executando o programa para o cliente

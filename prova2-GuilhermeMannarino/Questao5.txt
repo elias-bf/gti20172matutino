@@ -1,0 +1,6 @@
+Entrada                                           Saida
+
+n1=15; n2=5                                  R=3
+n1=9 ;  n2=2                                  R=4.5
+n1=20; n2=5                                 R=4
+n1=30; n2=0                                R= erro

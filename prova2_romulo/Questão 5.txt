@@ -1,0 +1,4 @@
+Resposta: 
+
+1° teste de: Validação é uma técnica sistemática para construir a arquitetura do software enquanto, ao mesmo tempo, conduz testes para descobrir erros associados às interfaces. O objetivo é, a partir de componentes testados no nível de unidade, construir uma estrutura de programa determinada pelo projeto. 
+2° teste de: regressão é conhecido como teste de caixa branca ou teste de caixa preta. 

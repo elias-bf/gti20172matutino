@@ -1,0 +1,11 @@
+   Entrada                                     Saida
+ N1=10;N2=2			         Resultado = (5)
+ N1=9;N2=2				 Resultado = (4.5)
+ N1=-21;N2=3				 Resultado = (-7)
+ N1=25;N2=0 				 Resultado = (impossibilidade)
+
+
+ Entrada 					Saida
+ N1= 10; N2=5				Resultado = (2)
+ N1= 9; n2=3 				Resultado =(3)
+ N1= 10; N2=0				Resultado =(ERRO)

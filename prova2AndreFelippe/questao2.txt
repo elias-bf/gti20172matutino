@@ -1,0 +1,9 @@
+Análize - Etapa em que será colhida informações sobre as funcionalidades do software.
+
+Projeto - Etapa em que será feito o escopo do projeto e determinar as equipes de desenvolvimento.
+
+Implementação - Etapa onde o progama será codificado.
+
+Teste - Etapa para testes, que serão análizados se o software atende aos requisitos desejados.
+
+Implantação - Etapa onde o software será entregue, envolve instalação nas máquinas do cliente e treinamento.
