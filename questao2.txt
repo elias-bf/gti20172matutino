@@ -1,9 +1,0 @@
-Analise - Essa etapa são levantados todos os requisitos para criação do software, são levantados as necessidade do cliente para o desenvolvimento do software.
-
-Projeto -  Nessa etapa são decididos como o sistema funcionará internamente, para que os requisitos do cliente possam ser atendidos alguns aspectos devem ser considerados nessa fase de projeto do sistema, como: arquitetura do sistema, linguagem de programação utilizada, Sistema Gerenciador de Banco de Dados utilizado, padrão de interface gráfica, entre outros.
-
-Implementação - E a parte onde o programador irá implementar criar o software em si com todos os requisitos levantados nas etapas anterios
-
-Teste - Essa etapa é verificado se todos os requisitos foi atendido se o software não possue nenhum erro de execução ou de requisitos
-
-Implantação - E quando o software e entrege ao cliente para que possa ser usado
