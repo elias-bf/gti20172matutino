@@ -1,0 +1,2 @@
+Resposta: 
+A)	Criar um commit do arquivo “principal.Java” localmente, para posterior envio ao repositório remoto
