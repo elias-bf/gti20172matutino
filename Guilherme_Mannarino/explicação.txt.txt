@@ -1,0 +1,3 @@
+git status : consegue ver quais arquivos estão fora do controle, quais foram modificados e estão esperando por uma descrição de modificação.
+
+git ls- files :  Mostra informações sobre arquivos no indice e na arvore de trabalho.
