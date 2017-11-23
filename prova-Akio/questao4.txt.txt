@@ -1,0 +1,5 @@
+resposta
+
+Teste- são para procurar bug ou resolver problema do programa
+
+Debbuging-são bug que e encontrado no programa

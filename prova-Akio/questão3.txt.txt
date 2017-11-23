@@ -1,0 +1,3 @@
+Resposta : 
+
+Letra A : Criar um commit do arquivo "principal.java" localmente , para posterior envio ao repositório
