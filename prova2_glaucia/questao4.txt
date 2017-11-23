@@ -1,0 +1,5 @@
+Os testes tem a finalidade de mostrar o que o software é o que o cliente deseja, e se atente os requisitos, conhecido como "Validação",
+são destinados a revelar os defeitos no sistema em vez de simular o seu uso operacional
+Já o debugging tem finalidades diferentes de teste, os processos de testes são dedicados a estabelecer
+a existencia de defeitos em um sistema de software, é um processo de localização e correção de defeitos, utilizando ou não ferramentas.
+

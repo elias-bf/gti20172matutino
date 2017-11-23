@@ -1,0 +1,5 @@
+3. Diferencie os conceitos de Teste x Debugging.
+
+Teste é a etapa em que são realizado os testes para ver se o software está operando de forma correta e sem bugs.
+
+Debbugin é um processo de localização e correção de defeitos, utilizando ou não ferramenta.
