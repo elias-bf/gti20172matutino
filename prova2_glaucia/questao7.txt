@@ -1,0 +1,5 @@
+Identificar preço, autor e titulo
+Identicar Nome e telefone
+Registrar a data de inicio do pedido
+Registrar a data do despachamento (data de envio)
+Excluir pedidos que não foram finalizados

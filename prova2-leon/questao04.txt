@@ -1,0 +1,10 @@
+Teste : 
+É um processo do desenvolvimento como um todo. Testes duram em todo o ciclo de vida do projeto
+testes são feitos com ferramentas específicas que automatizam o processo e códigos que possui a função de dizer se algo bem específico gerando o resultado esperado ou não
+
+Debugging:
+É um processo de conserto de algo que se sabe que está quebrado
+em geral é pontual para um defeito
+muitas vezes o processo é iniciado porque um teste detectou que há esse defeito
+é algo que se simula a execução passo a passo manualmente, para achar o motivo do problema e determinar o que precisaria ser mudado para resolvê-lo
+em geral é feito com o auxílio de ferramentas adicionais ou código extra para determinar o que está acontecendo e no final quando o problema é resolvido aquilo é jogado fora.

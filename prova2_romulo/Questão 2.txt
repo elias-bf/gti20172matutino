@@ -1,0 +1,22 @@
+Resposta: 
+
+Análise de Requisitos
+Esta etapa, também chamada de especificação de requisitos, é onde os desenvolvedores fazem um estudo detalhado dos dados levantados na atividade anterior. De onde são construídos modelos a fim de representar o sistema de software a ser desenvolvido.
+O interesse nessa atividade é criar uma estratégia de solução, sem se preocupar como essa estraté-gia será realizada, ou seja, utilizar as necessidades dos clientes, depois de compreendido o problema, para resolução do problema solicitado. Assim é necessário definir o que o sistema deve fazer, antes de definir como o sistema irá fazer.
+O que acontece com frequência, é quando as equipes de desenvolvimento partem para a solução do problema do software, sem antes ter definido completamente o problema em questão. Nesta fase deve-se então realizar a validação e verificação dos modelos construídos, antes de partir para solução do problema.
+•	Validação: tem por objetivo, assegurar que o sistema de software está atendendo às reais ne-cessidades do cliente;
+•	Verificação: verifica se os modelos construídos na análise estão em conformidade com os re-quisitos do cliente.
+Projeto
+Nesta fase é que deve ser considerado, como o sistema funcionará internamente, para que os requisi-tos do cliente possam ser atendidos. Alguns aspectos devem ser considerados nessa fase de projeto do sistema, como: arquitetura do sistema, linguagem de programação utilizada, Sistema Gerenciador de Banco de Dados (SGBD) utilizado, padrão de interface gráfica, entre outros.
+No projeto é gerada uma descrição computacional, mencionando o que o software deve fazer, e deve ser coerente com a descrição realizada na fase de análise de requisitos.
+O projeto possui duas atividades básicas: projeto da arquitetura (ou projeto de alto nível), e projeto detalhado (ou projeto de baixo nível).
+Em um processo de desenvolvimento orientado a objetos, o projeto da arquitetura normalmente é realizado por um arquiteto de software. O projeto da arquitetura visa distribuir as classes de objetos relacionados do sistema em subsistemas e seus componentes, distribuindo também esses componen-tes pelos recursos de hardware disponíveis.
+Já no projeto detalhado, são modeladas as relações de cada módulo com o objetivo de realizar as funcionalidades do módulo. Além de desenvolver o projeto de interface com o usuário e o projeto de banco de dados.
+Implementação
+Nessa etapa, o sistema é codificado a partir da descrição computacional da fase de projeto em uma outra linguagem, onde se torna possível a compilação e geração do código-executável para o desen-volvimento software.
+Em um processo de desenvolvimento orientado a objetos, a implementação se dá, definindo as clas-ses de objetos do sistema em questão, fazendo uso de linguagens de programação como, por exem-plo: Delphi (Object Pascal), C++, Java, etc. Pode-se também utilizar na implementação ferramentas de software e bibliotecas de classes preexistentes para agilizar a atividade, como também o uso de ferramentas CASE, que dinamizam o processo de desenvolvimento, nas várias atividades, onde inclui-se geração de código-fonte, documentação, etc.
+Testes
+Diversas atividades de testes são executadas a fim de se validar o produto de software, testando cada funcionalidade de cada módulo, buscando, levando em consideração a especificação feita na fase de projeto. Onde o principal resultado é o relatório de testes, que contém as informações relevantes sobre erros encontrados no sistema, e seu comportamento em vários aspectos. Ao final dessa ativida-de, os diversos módulos do sistema são integrados, resultando no produto de software.
+Implantação
+Por fim a implantação compreende a instalação do software no ambiente do usuário. O que inclui os manuais do sistema, importação dos dados para o novo sistema e treinamento dos usuários para o uso correto e adequado do sistema. Em alguns casos quando da existência de um software anterior, também é realizada a migração de dados anteriores desse software.
+
